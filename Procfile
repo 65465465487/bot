@@ -1,1 +1,1 @@
-web: python3 heroku.py
+bot: python3 heroku.py

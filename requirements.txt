@@ -10,4 +10,3 @@ pytelegrambotapi
 
 # Or you have .zip library
 # https://site.org/files/package.zip
-heroku ps:scale bot=1

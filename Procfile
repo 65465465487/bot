@@ -1,2 +1,2 @@
-bot: python3 heroku.py runserver
-heroku ps:scale bot=1
+web: python3 heroku.py runserver
+heroku ps:scale web=1
